@@ -5,7 +5,7 @@ using namespace std;
 int Punto1() {
     char car;
 
-    cout << "Por favor ingrese un caracter: " << endl;
+    cout << "Por favor ingrese un caracter: ";
     cin >> car;
 
     //Con esto pasamos la letra a minuscula
@@ -20,5 +20,6 @@ int Punto1() {
     } else {
         cout << "No es una letra." << endl;
     }
+
     return 0;
 }

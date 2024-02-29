@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
-    Punto1();
+int main() {
+    Punto5();
     return 0;
 }
