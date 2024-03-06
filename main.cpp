@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    Punto5();
+    Punto1();
     return 0;
 }
